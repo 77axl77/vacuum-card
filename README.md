@@ -204,6 +204,7 @@ If this card works with your vacuum cleaner, please open a PR and your model to 
 - EcoVacs Deebot OZMO T8 AIVI
 - Eufy Robovac 30c
 - Mi Robot Vacuum-Mop P
+- Dreame Robot Vacuum-Mop F9
 - [_Your vacuum?_][edit-readme]
 
 ## Development
